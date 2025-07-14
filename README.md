@@ -18,19 +18,19 @@
       <li>✅ Docker (for Elasticsearch container)</li>
     </ul>
 
-    <h3>2. Clone the Repository</h3>
-    <pre><code>git clone https://github.com/your-username/course-search.git
-cd course-search</code></pre>
+    2. Clone the Repository
+    git clone https://github.com/your-username/course-search.git
+cd course-search
 
-    <h3>3. Start Elasticsearch with Docker Compose</h3>
-    <pre><code>docker-compose up -d</code></pre>
+    3. Start Elasticsearch with Docker Compose
+    docker-compose up -d
 
-    <h3>4. Run the Spring Boot Application</h3>
-    <pre><code>./mvnw spring-boot:run</code></pre>
+    4. Run the Spring Boot Application
+    ./mvnw spring-boot:run
 
-    <h3>5. Verify Initialization</h3>
-    <p>You should see:</p>
-    <pre><code>Courses indexed into Elasticsearch: 50</code></pre>
+    5. Verify Initialization
+    You should see:
+    👍Courses indexed into Elasticsearch: 50
   </div>
 
   <div class="section">
