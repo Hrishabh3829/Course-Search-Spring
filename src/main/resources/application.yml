@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: course-search
+
+  elasticsearch:
+    uris: http://localhost:9200
