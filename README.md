@@ -3,17 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Course Search Backend - Documentation</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; background-color: #f9f9f9; color: #333; }
-    h1, h2, h3 { color: #005792; }
-    code { background: #e8e8e8; padding: 0.2em 0.4em; border-radius: 4px; }
-    pre { background: #272822; color: #f8f8f2; padding: 1em; border-radius: 8px; overflow: auto; }
-    .section { margin-bottom: 2rem; }
-    .table { border-collapse: collapse; width: 100%; }
-    .table th, .table td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
-    .table th { background-color: #f0f0f0; }
-  </style>
+<!--   <title>Course Search Backend - Documentation</title> -->
 </head>
 <body>
   <h1>🎯 Course Search Backend (Spring Boot + Elasticsearch)</h1>
